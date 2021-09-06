@@ -1,4 +1,4 @@
-This project of segmenting image by painting was finished by Xianyao Chen, who is serving for e-commerce company (MiX:D,믹스디 주식화사) of Sourth Korea in 2021.
+This project of segmenting image by painting was built by Xianyao Chen, when serving for the e-commerce company (MiX:D, 믹스디 주식화사) in South Korea.
 
 [1] Target: Segment any part of image 
 
